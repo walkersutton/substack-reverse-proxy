@@ -4,6 +4,9 @@ Built on the [Serverless Framework](https://www.serverless.com)
 
 [Serverless Documentation](https://www.serverless.com/framework/docs/providers/aws/events/)
 
+## Functionality
+The `posts` function returns metadata about recent posts I've published.
+
 ## Usage
 
 ### Deployment
